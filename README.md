@@ -31,12 +31,19 @@ Here are some cool projects I've worked on:
 
 ### Work account stats
 
+My work account [tin900](github.com/tin900)
+
 [![tin900's GitHub stats](https://github-readme-stats.vercel.app/api?username=tin900)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Accounts
 
+- **VU work account**
 
+[![](https://github.com/tin900.png?size=50)](https://github.com/tin900)
 
+- **Personal account**
 
+[![](https://github.com/Tomeriko96.png?size=50)](https://github.com/Tomeriko96)
 <!--
 **Tomeriko96/Tomeriko96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
